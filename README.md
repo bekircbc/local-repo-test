@@ -1,3 +1,3 @@
-# Mein Lokales Repo- zweiter Commit!
+# Mein Lokales Repo- dritter Commit!
 
-- Neues .[Neu Added](https://github.com/bekircbc/local-repo-test)
+- Neues .[Neu Added].(https://github.com/bekircbc/local-repo-test)
